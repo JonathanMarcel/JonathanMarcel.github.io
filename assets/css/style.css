@@ -23,8 +23,8 @@ body{
     align-items: center;
   }
   
-  .nav-black {
+ .nav-black{
     background-color: black;
     opacity: 0,9;
     color: white;
-  }
+ }
